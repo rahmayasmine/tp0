@@ -2,6 +2,7 @@ package reservationVoyageEnbus;
 
 public class Ville {
 	private String nom;
+	private String nom2;
 	  
 	
 	public Ville(String nom)
