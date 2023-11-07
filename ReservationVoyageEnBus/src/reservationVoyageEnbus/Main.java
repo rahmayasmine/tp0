@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class Main {
 	public static void main(String[] args)
 	{int x,t,indis,ar,id=0,test=0,i;
-	String n,p,a,e,k,l,m,non="non";
+	//String n,p,a,e,k,l,m,non="non";
 	
 	boolean b;
 	 Client c2=new Client();
